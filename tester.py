@@ -10,7 +10,7 @@ import time,os
 terminate = False
 
 
-loc = int(raw_input("Enter the location ID of capture : "))
+loc = int(input("Enter the location ID of capture : "))
 
 #Create Directory to store the captured traces
 try:
@@ -19,8 +19,6 @@ try:
     os.chdir(os.getcwd()+"/"+folderName)
 except OSError as e:
     print("Error "+e.errno)
-
-sleep(delay)
 
 while not terminate: 
 	print("----------------------WAR DRIVING-------------------------------")

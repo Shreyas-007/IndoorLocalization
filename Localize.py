@@ -42,7 +42,7 @@ for tries in range(1,11):
             terminate=True
             break
 
-        print "Data not captured. Pausing for 3s and recapturing data...."
+        print("Data not captured. Pausing for 3s and recapturing data....")
         sleep(3)
     sleep(10)
 
