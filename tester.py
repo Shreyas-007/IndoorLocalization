@@ -1,3 +1,8 @@
+'''
+Created : 9/1/2017
+Authors : Shreyas Jayaram, Bhaskar Bishnoi
+'''
+
 import iwlist
 from time import sleep, gmtime, strftime
 import time,os
@@ -14,13 +19,6 @@ try:
     os.chdir(os.getcwd()+"/"+folderName)
 except OSError as e:
     print("Error "+e.errno)
-
-try:
-	#delay = int(raw_input("Enter a numeric delay in second(s)"))
-	delay=3
-except:
-	print("Numeric delay expected, starting program wihout delay")
-	delay=0
 
 sleep(delay)
 
