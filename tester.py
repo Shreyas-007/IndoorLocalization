@@ -67,8 +67,6 @@ while not terminate:
 
 		if i==0:
 			data.write("\n\n--------------------------------------------------------------------------------------------------------------------------\n\n")
-			#print "{:<50} {:<10}".format('Parameter','Value')
-			# print "{:<20} {:<20} {:<20} {:<20} {:<20} {:<20} {:<20} {:<20}" .format('Date/Time','Location', 'Channel','Signal Quality','SSID','MAC Address','Signal Level','Cell Number')
 			data.write("{:<20} {:<20} {:<20} {:<20} {:<20} {:<20} {:<20} {:<20}" .format('Signal Quality','SSID','MAC Address','Signal Level','Cell Number','Date/Time','Location', 'Channel'))
 			data.write("\n\n---------------------------------------------------------------------------------------------------------------------------\n\n")
 		data.flush()
@@ -76,13 +74,11 @@ while not terminate:
 		for d in newList:
 		
 			str=""
-			#print("----------------------------------------------------------------------------------")
 			for k, v in d.iteritems():
 				str=str + "{:<20}".format(v)
 
 			data.write(str+"\n")
 			data.flush()
-			#print("----------------------------------------------------------------------------------")
 
 	rdata = open('Iwlist_wlp3s0_Params.txt','r')
 	
@@ -95,8 +91,5 @@ while not terminate:
 		terminate=True
 		break
 
-	print "Data not captured. Pausing for 3s and recapturing data...."
+	print("Data not captured. Pausing for 3s and recapturing data....")
 	sleep(3)
-		
-	
-	
