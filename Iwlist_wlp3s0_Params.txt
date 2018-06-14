@@ -1,0 +1,224 @@
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Signal Quality       SSID                 MAC Address          Signal Level         Cell Number          Date/Time            Location             Channel             
+
+---------------------------------------------------------------------------------------------------------------------------
+
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:47 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:48 test                11                  
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Signal Quality       SSID                 MAC Address          Signal Level         Cell Number          Date/Time            Location             Channel             
+
+---------------------------------------------------------------------------------------------------------------------------
+
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:51 test                11                  
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Signal Quality       SSID                 MAC Address          Signal Level         Cell Number          Date/Time            Location             Channel             
+
+---------------------------------------------------------------------------------------------------------------------------
+
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:54 test                11                  
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Signal Quality       SSID                 MAC Address          Signal Level         Cell Number          Date/Time            Location             Channel             
+
+---------------------------------------------------------------------------------------------------------------------------
+
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:36:57 test                11                  
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Signal Quality       SSID                 MAC Address          Signal Level         Cell Number          Date/Time            Location             Channel             
+
+---------------------------------------------------------------------------------------------------------------------------
+
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:00 test                11                  
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Signal Quality       SSID                 MAC Address          Signal Level         Cell Number          Date/Time            Location             Channel             
+
+---------------------------------------------------------------------------------------------------------------------------
+
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:03 test                11                  
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Signal Quality       SSID                 MAC Address          Signal Level         Cell Number          Date/Time            Location             Channel             
+
+---------------------------------------------------------------------------------------------------------------------------
+
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:06 test                11                  
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Signal Quality       SSID                 MAC Address          Signal Level         Cell Number          Date/Time            Location             Channel             
+
+---------------------------------------------------------------------------------------------------------------------------
+
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
+68/70               Vijayanagara_Guest  48:5D:36:F1:6D:CA   -42dBm              01                  2017-12-09 22:37:09 test                11                  
